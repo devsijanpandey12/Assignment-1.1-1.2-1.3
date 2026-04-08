@@ -184,14 +184,4 @@ Identifying named entities like people, places, organizations
 - **Pandas**: Data manipulation and formatting
 - **Uvicorn**: ASGI server implementation
 
-## 📝 License
-
-This is an academic assignment project.
-
-## 👤 Author
-
-Created as an NLP Assignment (Assignment 1)
-
----
-
 **Happy NLP Preprocessing! 🎉**
