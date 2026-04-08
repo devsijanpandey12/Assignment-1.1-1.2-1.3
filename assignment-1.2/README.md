@@ -273,16 +273,3 @@ Embeddings convert words into vectors (lists of numbers). Computers can't unders
 4. Result comes back to Streamlit
 5. Streamlit displays it beautifully
 
-## 📄 License
-
-Free to use and modify for learning purposes.
-
-## ✉️ Questions?
-
-If something doesn't work:
-1. Check the terminal output for error messages
-2. Make sure both API and Streamlit are running
-3. Verify port 5000 is available
-4. Try stopping and restarting everything
-
-Happy Learning! 🚀
